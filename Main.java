@@ -8,6 +8,6 @@ public class Main {
 
 		System.out.println("Project Euler");
 
-		Problems_1_50.problem2() ;
+		Problems_1_50.problem3() ;
 	}
 }
